@@ -1,0 +1,18 @@
+{
+  "name": "reacted",
+  "description": "Typescript port of preact",
+  "version": "0.0.30",
+  "dependencies": {
+    "@types/jest": "^20.0.8",
+    "@types/node": "^8.0.28"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "2.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
