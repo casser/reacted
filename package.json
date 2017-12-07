@@ -2,11 +2,9 @@
   "name": "reacted",
   "description": "Typescript port of preact",
   "version": "0.0.30",
-  "dependencies": {
-    "@types/jest": "^20.0.8",
-    "@types/node": "^8.0.28"
-  },
   "devDependencies": {
+    "@types/jest": "^20.0.8",
+    "@types/node": "^8.0.28",
     "react-scripts-ts": "2.6.0"
   },
   "scripts": {
